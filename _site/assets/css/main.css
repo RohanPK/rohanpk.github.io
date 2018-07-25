@@ -444,6 +444,14 @@ nav {
   text-indent: 50px;
   font-family: "Raleway", sans-serif; }
 
+.blog-paragraph {
+  margin: 4%;
+  font-size: 25px;
+  font-weight: 400;
+  text-align: left;
+  text-indent: 50px;
+  font-family: "Raleway", sans-serif; }
+
 .projects-paragraph {
   color: white; }
 
@@ -583,6 +591,20 @@ nav ul li {
   font-weight: 200px;
   font-size: 2.3rem;
   font-family: "Josefin Slab", serif; }
+
+.heading-blog {
+  color: #292929;
+  font-weight: 200px;
+  font-size: 4.3rem;
+  font-family: "Josefin Slab", serif; }
+  
+  .blog-paragraph {
+  margin: 4%;
+  font-size: 25px;
+  font-weight: 400;
+  text-align: justify;
+  text-indent: 50px;
+  font-family: "Raleway", sans-serif; }
 
 .homepage-section {
   display: block;

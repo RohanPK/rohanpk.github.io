@@ -1,0 +1,11 @@
+- id: 1
+  title: First Collabrative Project - MicroWars
+  description: Microwars clone uses the SFML library for graphics and audio. The game consists of orbs which small smaller units which can be used to caputure other orbs. The game ends when either all orbs have been captured by the same player or when all units are of the same colour.  So far has single player features have been implemented . We'll start on the networking components from mid-August 2018. Once finished anyone on the same WiFi/Ethernet connection should be able to play the game.
+  date: 25th July 2018
+
+
+- id: 2
+  title: One Page Resume
+  description: Uploaded the first-draft for the resume made using Latex.
+  date: 23th July 2018
+
