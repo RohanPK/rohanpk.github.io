@@ -1,11 +1,9 @@
 - id: 1
-  title: First Collabrative Project - MicroWars
-  description: Microwars clone uses the SFML library for graphics and audio. The game consists of orbs which small smaller units which can be used to caputure other orbs. The game ends when either all orbs have been captured by the same player or when all units are of the same colour.  So far has single player features have been implemented . We'll start on the networking components from mid-August 2018. Once finished anyone on the same WiFi/Ethernet connection should be able to play the game.
-  date: 25th July 2018
-
-
+  title: Linear Algebra Library for OpenGL in C
+  description: A linear algebra library created for Assignment-1 of TIP-Intro to Open Source.It took about 2 weeks to complete. Our mentor Anish Bhobhe had aldready provided Vec2f declerations so I didn't have to start from scratch. For the first week I periodically kept working on vector functions. Started off by using for loops in every function uptill Vec3f. Most of the functions had to be hard-coded( no for loops) so rewriting function definitions was tedious but worth it because of the performance gain. I spent the major part of the weekend working on Matrix implementation. I still have to implement test cases for 2D matrix but that shouldn't take long given I've finished test cases for 3D and 4D matrices. The library currently contains 2D,3D,4D vectors and matrices which can be converted to GlSl arrays.<br>The repo can be found <a href = "www.github.com/RohanPK/glmc">here</a>.
+  date: 30th Spetember 2018
 - id: 2
-  title: One Page Resume
-  description: Uploaded the first-draft for the resume made using Latex.
-  date: 23th July 2018
+  title: First Collabrative Project - MicroWars
+  description: Microwars game uses the SFML library for graphics and audio. The game consists of orbs which small smaller units which can be used to caputure other orbs. The game ends when either all orbs have been captured by the same player or when all units are of the same colour.  So far the single player features have been implemented . We'll start on the networking components from mid-August 2018. Once finished anyone on the same Ethernet connection should be able to play the game.
+  date: 25th July 2018
 
